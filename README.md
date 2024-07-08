@@ -36,7 +36,7 @@ Welcome to the **University Management System** project, a C++ console applicati
 
 1. Clone the Repository:
 
-   git clone https://github.com/your-username/university-management-system.git
+   git clone https://github.com/Maryam-Amir00/university-management-system.git
    
 
 2. Navigate to the Project Directory:
